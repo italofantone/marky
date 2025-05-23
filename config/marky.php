@@ -19,6 +19,6 @@ return [
         'id_prefix' => '',
         'fragment_prefix' => '',
         'title' => 'Permalink',
-        'symbol' => '#',
+        'symbol' => '# ',
     ],
 ];
